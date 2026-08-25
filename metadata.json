@@ -1,0 +1,6 @@
+{
+  "name": "Entity E-E-A-T & AI Visibility Snapshot Tool",
+  "description": "Analyze a website's trust signals, entity authority, and readiness to be understood and cited by AI systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
