@@ -637,7 +637,7 @@ export default function App() {
 
       {/* FOOTER SECTION */}
       <footer className="mt-16 text-center text-xs text-slate-400 no-print space-y-1">
-        <p>© 2026 Entity E-E-A-T &amp; AI Visibility Snapshot. Developed by <strong className="text-slate-600">Ami - SEO Girl</strong>. All rights reserved.</p>
+        <p>© 2026 Entity E-E-A-T &amp; AI Visibility Snapshot. Developed by <strong className="text-slate-600">SEO Girl - Ami</strong>. All rights reserved.</p>
         <p className="text-[10px] text-slate-400/80">Entity authority, E-E-A-T and AI citation-readiness analysis</p>
       </footer>
     </div>
